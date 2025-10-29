@@ -1,32 +1,37 @@
-# Hi there, I'm Mahmudul Hasan 👋
+# Hi there, I'm Meherun Mridha 👋
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in the MERN stack with a strong focus on building scalable web applications. I love creating efficient, user-friendly solutions and am always eager to learn new technologies.
+I'm a passionate **Full Stack Web Developer** with a creative background in design. I love building innovative web solutions and bringing ideas to life through code. With over 3 years of experience, I've delivered thousands of creative, detail-oriented designs tailored to client needs while also developing robust web applications.
 
-- 🔭 I'm currently working on **full-stack web development projects**
-- 🌱 I'm currently learning **advanced React patterns and cloud technologies**
-- 👯 I'm looking to collaborate on **open-source MERN stack projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, and modern web development**
-- 📫 How to reach me: **mahmudul15-14348@diu.edu.bd**
+- 🔭 I'm currently pursuing **BSc Hons. in Zoology** at National University
+- 🌱 I'm currently learning **Full Stack Web Development (MERN Stack)** at Shikhbe Shobai
+- 👯 I'm looking to collaborate on **full-stack web applications and open-source projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Web Design**
+- 📫 How to reach me: **mridhameherun1986@gmail.com**
 - 📍 Based in **Gazipur, Dhaka, Bangladesh**
-- ⚡ Fun fact: **I built a complete e-commerce platform and delivery management system!**
+- 📞 Tel: **01993528131**
+- ⚡ Fun fact: **I combine my design skills with development to create beautiful, functional websites!**
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Backend
+### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Design Tools
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -34,6 +39,7 @@ I'm a passionate **Full Stack Developer** specializing in the MERN stack with a 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -45,51 +51,94 @@ I'm a passionate **Full Stack Developer** specializing in the MERN stack with a 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-## 🏆 Featured Projects
+## 💼 Work Experience
 
-### [Parcel Delivery Management System](https://github.com/yourusername/parcel-delivery)
-A comprehensive MERN stack application for managing parcel deliveries with role-based authentication, real-time tracking, and payment integration. Features include user dashboard, delivery person management, and admin analytics.
+**Freelancer** | Full Stack Web Developer & Creative Designer  
+*Present* | Freelancer.com, Upwork
+- Developing full-stack web applications using MERN stack (MongoDB, Express.js, React, Node.js)
+- Building RESTful APIs and integrating third-party services
+- Creating responsive, user-friendly interfaces with modern design principles
+- Managing databases and implementing secure authentication systems
+- Delivering creative design solutions alongside development services
 
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT Authentication
+**PR Team (Graphic Designer)** | Volunteer For Bangladesh (JAAGO Foundation)  
+*Present*
+- Creating visual content for PR campaigns
+- Designing promotional materials for social causes
 
-### [E-commerce Platform](https://github.com/yourusername/ecommerce-platform)
-Full-featured online shopping platform with product management, shopping cart, user authentication, and secure checkout process.
+**Assistant Teacher** | M. R. Ideal High School  
+*Present*
+- Teaching and mentoring students
+- Creating educational materials and resources
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Payment Gateway Integration
+**Graphic Design Internship** | Support Mentor  
+*Present* | Shikhbe Shobai
+- Supporting and mentoring design students
+- Creating design tutorials and educational content
 
-### [Portfolio Website](https://github.com/yourusername/portfolio)
-Personal portfolio showcasing my projects, skills, and professional experience with a modern, responsive design.
-
-**Tech Stack:** React, Tailwind CSS, JavaScript
+**Graphic Design Intern** | Projuktir Pathshala Institute  
+*3 months*
+- Gained hands-on experience in professional design projects
+- Collaborated with team on various design assignments
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science & Engineering**  
-Daffodil International University | 2020 - 2024  
-CGPA: 3.73/4.00
+**BSc Hons. Degree in Zoology** (Present)  
+National University | Board: Dhaka
 
-## 💼 Experience
+**Higher Secondary Degree (HSC)** - Science  
+Gazipur Govt. Mohila College | 2022  
+Result: 5.00 (out of 5.00) | Board: Dhaka
 
-**Web Developer** | Freelance | 2023 - Present
-- Developed multiple full-stack web applications using MERN stack
-- Implemented RESTful APIs and integrated third-party services
-- Collaborated with clients to deliver custom solutions
+**Secondary Degree (SSC)** - Science  
+BARI High School | 2020  
+Result: 5.00 (out of 5.00) | Board: Dhaka
 
-## 🌟 Skills Highlights
+## 📚 Courses & Training
 
-- **Frontend Development:** Building responsive, interactive UIs with React and modern CSS frameworks
-- **Backend Development:** Creating robust APIs with Node.js and Express
-- **Database Management:** Designing and optimizing MongoDB schemas
-- **Authentication & Security:** Implementing JWT-based authentication and authorization
-- **Version Control:** Proficient with Git and GitHub workflows
-- **Problem Solving:** Strong analytical and debugging skills
+- **Full Stack Web Development** (Present) - Shikhbe Shobai
+- **Advanced Graphic Design** (3 months) - Projuktir Pathshala Institute
+- **Graphic and UI Design** (3 months) - Shikhbe Shobai
+
+## 🌟 Volunteer Experience
+
+**United Nations Youth & Student Association**  
+Associate Member (Batch 18) | Present  
+Cause: Empowering The Youth
+
+**Volunteer For Bangladesh**  
+Committee Member | Present  
+Cause: Volunteerism and SDG
+
+**Bangladesh Red Crescent Society**  
+General Member | Present  
+Cause: Humanitarian Organization
+
+**Bangladesh Youth Column Writers Forum**  
+General Member | Present  
+Cause: Create Skilled Writers
+
+**Wikivoyage**  
+Translator | Present  
+Cause: Travel Guide
+
+## 🏆 Achievements
+
+**Scholastic Assessment Test (SAT)**  
+Score: 1210 (Math: 700, Verbal: 510)  
+79th percentile
+
+## 🌐 Languages
+
+- **Bengali** - Native
+- **English** - Proficient (CEFR Level: C1/C2 equivalent)
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudul15-14348@diu.edu.bd)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourwebsite.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meherunmridha)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/meherun.mridha.3)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@meherunmridha)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mridhameherun1986@gmail.com)
 
 ## 💡 Profile Views
 
@@ -97,4 +146,4 @@ CGPA: 3.73/4.00
 
 ---
 
-⭐️ From [Mahmudul Hasan](https://github.com/yourusername) | 💻 Passionate about creating impactful web solutions
+⭐️ From [Meherun Mridha](https://github.com/yourusername) | 💻 Passionate about creating meaningful digital experiences through design and development
