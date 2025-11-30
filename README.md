@@ -114,7 +114,7 @@ Result: **5.00 / 5.00** | Dhaka Board
 
 ## 📚 Courses & Training
 
-- **Full Stack Web Development (MERN Stack)** – Shikhbe Shobai (Ongoing)  
+- **Full Stack Web Development (MERN Stack)** – Shikhbe Shobai (1 year)  
 - **Advanced Graphic Design** – Projuktir Pathshala Institute (3 months)  
 - **Graphic and UI Design** – Shikhbe Shobai (3 months)  
 
